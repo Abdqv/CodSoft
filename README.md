@@ -9,4 +9,4 @@ Welcome to the Machine Learning Projects Repository, where you'll find hands-on 
 | **Customer Churn Prediction**       | [Kaggle](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)      | Logistic Regression, XGBoost, Random Forest  | ROC-AUC, Feature Engineering |
 
 ⚙️ Usage
-Each project includes a google collab notebook (.ipynb) that contains the entire machine learning pipeline from data preprocessing to model evaluation. Simply run the notebook to explore each project.
+Each project includes a jupyter notebook (.ipynb) that contains the entire machine learning pipeline from data preprocessing to model evaluation. Simply run the notebook to explore each project.
